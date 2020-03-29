@@ -1,0 +1,14 @@
+svg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.data {
+  font-size: 80%;
+  font-family: monospace;
+  width: 30px;
+  text-align: center;
+  display:inline-block;;
+  background-color: red;
+}
